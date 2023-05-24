@@ -1,0 +1,4481 @@
+[{
+  "restaurant_id": "40356068",
+  "name": "Tov Kosher Kitchen",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40356151",
+  "name": "Brunos On The Boulevard",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40356442",
+  "name": "Kosher Island",
+  "borough": "Staten Island",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40361322",
+  "name": "Carvel Ice Cream",
+  "borough": "Queens",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices"
+},{
+  "restaurant_id": "40361618",
+  "name": "Sal'S Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40361998",
+  "name": "Steve Chu'S Deli & Grocery",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40362432",
+  "name": "Ho Mei Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40363333",
+  "name": "Tony'S Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40363427",
+  "name": "Bagels N Buns",
+  "borough": "Staten Island",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40363565",
+  "name": "Hot Bagels",
+  "borough": "Queens",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40363590",
+  "name": "Snack Time Grill",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40363834",
+  "name": "Carvel Ice Cream",
+  "borough": "Staten Island",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices"
+},{
+  "restaurant_id": "40364262",
+  "name": "Terminal Cafe/Yankee Clipper",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40364286",
+  "name": "Plaza Bagels & Deli",
+  "borough": "Staten Island",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40364299",
+  "name": "B & M Hot Bagel & Grocery",
+  "borough": "Staten Island",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40364449",
+  "name": "Gottscheer Hall",
+  "borough": "Queens",
+  "cuisine": "German"
+},{
+  "restaurant_id": "40364529",
+  "name": "Ben-Best Deli & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40364610",
+  "name": "Great Kills Yacht Club",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40364744",
+  "name": "New Park Pizzeria & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40364858",
+  "name": "Douglaston Club",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40364920",
+  "name": "Rizzo'S Fine Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40365013",
+  "name": "Crystal Room",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40365022",
+  "name": "Labetti'S Post # 2159",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40365120",
+  "name": "South Shore Swimming Club",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40365454",
+  "name": "Joe & Pat'S Pizzeria",
+  "borough": "Staten Island",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40365592",
+  "name": "King Yum Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40365627",
+  "name": "Jahn'S Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40365692",
+  "name": "Joyce'S Tavern",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40365841",
+  "name": "Parkside Restaurant",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40365844",
+  "name": "Lavelle'S Admiral'S Club",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40365938",
+  "name": "Nancy'S Fire Side",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40365972",
+  "name": "Blarney Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40366002",
+  "name": "Margherita Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40366054",
+  "name": "Healy'S Pub",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40366132",
+  "name": "Denino'S Pizzeria Tavern",
+  "borough": "Staten Island",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40366162",
+  "name": "Lenihan'S Saloon",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40366214",
+  "name": "Emilio Iii Bar",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40366230",
+  "name": "Don Peppe",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40366356",
+  "name": "Blarney Castle",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40366425",
+  "name": "Naomi Kosher Pizza",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40366543",
+  "name": "Jardin De China Rest",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40366549",
+  "name": "Irish Cottage",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40366586",
+  "name": "Shimons Kosher Pizza",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40366711",
+  "name": "Li Greci'S Staaten Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40366812",
+  "name": "Cara Mia",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40366857",
+  "name": "Maloney'S Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40366879",
+  "name": "La Fusta Restaurant",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40366928",
+  "name": "Richmond County Country Club",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40366929",
+  "name": "Little Brown Jug",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40367232",
+  "name": "O'Hanlon'S Pub",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40367240",
+  "name": "Charlies Sports Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40367278",
+  "name": "Jack'S Pizza & Pasta",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40367377",
+  "name": "Zum Stammtisch",
+  "borough": "Queens",
+  "cuisine": "German"
+},{
+  "restaurant_id": "40367442",
+  "name": "Buddy'S Wonder Bar",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40367481",
+  "name": "The Assembly Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40367540",
+  "name": "Piccola Venezia",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40367570",
+  "name": "Ni-Ni'S Cafe",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40367749",
+  "name": "Lenny'S Clam Bar",
+  "borough": "Queens",
+  "cuisine": "Seafood"
+},{
+  "restaurant_id": "40367789",
+  "name": "Dani Pizza And Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40367829",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40367870",
+  "name": "Amore Pizzeria & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40368034",
+  "name": "Roadhouse Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40368291",
+  "name": "Colonnade Diner",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40368801",
+  "name": "Marbella Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40368809",
+  "name": "P.J.' S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40369012",
+  "name": "Valentino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40369051",
+  "name": "Steve'S Coffee Shop",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40369158",
+  "name": "Jody'S Club",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40369213",
+  "name": "Whitestone Lanes",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40369262",
+  "name": "John'S Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40369675",
+  "name": "White Castle",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40369724",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40369849",
+  "name": "Gino'S Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40369983",
+  "name": "The Dart Inn",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40370091",
+  "name": "Pizza Town",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40370167",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40370238",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40370239",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40370356",
+  "name": "Mcdonald'S",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40370449",
+  "name": "Pat'S Stationary",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40370519",
+  "name": "Divers Cove",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40370638",
+  "name": "Tjk Cafe & Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40370781",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40370910",
+  "name": "Perkins Family Restaurant & Bakery",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40370916",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40370939",
+  "name": "Manducatis",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40370946",
+  "name": "Sizzler",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40371323",
+  "name": "Vinny'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40371614",
+  "name": "La Baraka Restaurant",
+  "borough": "Queens",
+  "cuisine": "French"
+},{
+  "restaurant_id": "40371771",
+  "name": "Schaffer'S Tavern",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40371807",
+  "name": "Aunt Bella'S Rest Of Little Neck",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40371988",
+  "name": "North Shore Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40372016",
+  "name": "Exclusive Catering",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40372258",
+  "name": "Water Front Crab House",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40372357",
+  "name": "Marina Cafe",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40372422",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40372426",
+  "name": "Dazies Restaurant",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40372433",
+  "name": "Triestes Restaurant",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40372445",
+  "name": "Omonia Cafe",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40372618",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40372694",
+  "name": "Clinton Restaurant",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40372831",
+  "name": "Chen'S Chinese",
+  "borough": "Staten Island",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40373118",
+  "name": "Golden Dove Diner",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40373794",
+  "name": "Ready Penny Inn",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40373984",
+  "name": "Burke'S Pub",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40374015",
+  "name": "Hill Tap Tavern",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40374460",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40374814",
+  "name": "Europa Go-Go Dancing",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40375286",
+  "name": "La Villa De Pizza & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40375369",
+  "name": "Ozone Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40375371",
+  "name": "Ponticello Restaurant",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40375899",
+  "name": "Neron'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40376029",
+  "name": "Moms Luncheonette",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40376077",
+  "name": "Fontana Famous Pizza & Gyro",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40376204",
+  "name": "Portofino",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40376290",
+  "name": "King'S Arms Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40376583",
+  "name": "War Memorial Ice Skating Rink",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40376933",
+  "name": "Water'S Edge Club",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40377164",
+  "name": "Rogers Irish Tavern",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40377262",
+  "name": "Sunset Pizzeria",
+  "borough": "Staten Island",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40377294",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40377385",
+  "name": "Napoli Pizza",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40377560",
+  "name": "Western Bakery",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40377908",
+  "name": "Windjammers Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40378035",
+  "name": "Dunkin' Donuts/Baskin' Robbins",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40378190",
+  "name": "Narita Japanese Restaurant",
+  "borough": "Queens",
+  "cuisine": "Japanese"
+},{
+  "restaurant_id": "40378534",
+  "name": "Port O' Calls",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40378585",
+  "name": "Mike'S Pub",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40378719",
+  "name": "The Clubhouse",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40378774",
+  "name": "Fame Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40378822",
+  "name": "Union Hall",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40379026",
+  "name": "Flamingo",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40379566",
+  "name": "London Lennies",
+  "borough": "Queens",
+  "cuisine": "Seafood"
+},{
+  "restaurant_id": "40379994",
+  "name": "Yankee Clipper",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40380422",
+  "name": "Carlos Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40380520",
+  "name": "Annam Braham Restaurant",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40380628",
+  "name": "Pisa Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40381083",
+  "name": "Riverhead Gentlemen'S Club",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40381811",
+  "name": "Duffy'S",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40381896",
+  "name": "Uno Chicago Grill",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40382052",
+  "name": "Latourette Golf Course",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40383003",
+  "name": "Cobblestone Pub",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40383147",
+  "name": "Il Toscano Ristorante",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40383151",
+  "name": "Pier 25A Restaurant",
+  "borough": "Queens",
+  "cuisine": "Seafood"
+},{
+  "restaurant_id": "40383281",
+  "name": "Gaby'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40383284",
+  "name": "Verdi Restaurant",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40383609",
+  "name": "Real Madrid Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40383737",
+  "name": "Canlon'S Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40383836",
+  "name": "Barone Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40383945",
+  "name": "Pizza D'Oro",
+  "borough": "Staten Island",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40384115",
+  "name": "Phil & Sons Restaurant & Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40384323",
+  "name": "Omega Coffee Shop",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40384458",
+  "name": "Dream Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40384525",
+  "name": "Kanes Deli Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40384820",
+  "name": "Dunkin' Donuts/Baskin Robbins",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40384920",
+  "name": "Victory Sweet Shop",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40385065",
+  "name": "Carol'S Cafe",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40385543",
+  "name": "Dairy Palace",
+  "borough": "Staten Island",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40385584",
+  "name": "Pizza Garden",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40385657",
+  "name": "Lefkos Pygos Cafe",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40385974",
+  "name": "Dakota Diner",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40386058",
+  "name": "Arirang Hibachi Steak House",
+  "borough": "Staten Island",
+  "cuisine": "Japanese"
+},{
+  "restaurant_id": "40386067",
+  "name": "Country Donuts",
+  "borough": "Staten Island",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40386069",
+  "name": "Doral Donuts",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40386147",
+  "name": "Jacks Ale House",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40386425",
+  "name": "Tasty'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40386428",
+  "name": "Oakland Cafeteria/Queensborough Community College",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40386429",
+  "name": "Q.B.Comm.College-Main Kitchen/Tiger Bites Pizza Section",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40386528",
+  "name": "Erin'S Isle",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40386612",
+  "name": "White Castle",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40386675",
+  "name": "Copper Kettle",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40386722",
+  "name": "Sanremo Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40386793",
+  "name": "Science Cafe (Queensborough  Community College)",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40387027",
+  "name": "La Casa Del Pollo Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chicken"
+},{
+  "restaurant_id": "40387243",
+  "name": "Jimmy Max Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40387549",
+  "name": "Kelly'S Pub",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40387746",
+  "name": "Rosebank Tavern",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40388235",
+  "name": "Lucky Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40388571",
+  "name": "Puttin On A Bagel",
+  "borough": "Staten Island",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40388639",
+  "name": "Glendale Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40388775",
+  "name": "Baskin Robbins",
+  "borough": "Queens",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices"
+},{
+  "restaurant_id": "40389115",
+  "name": "Sac'S Pizza Place",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40389266",
+  "name": "Baybridge Szechuan Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40389308",
+  "name": "Ideal Donut",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40389601",
+  "name": "Bliss Street Station Restaurant",
+  "borough": "Queens",
+  "cuisine": "Steak"
+},{
+  "restaurant_id": "40389633",
+  "name": "Uno Chicago Grill",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40389701",
+  "name": "Rosa'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40389819",
+  "name": "Austin House",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40389881",
+  "name": "Wharf Bar And Grill",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40389907",
+  "name": "O G Restaurant",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40390163",
+  "name": "5 Burro Cafe",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40390185",
+  "name": "Lucho'S Place",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40390232",
+  "name": "Cho-Sen Garden",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40390241",
+  "name": "Papazzio Restaurant",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40390536",
+  "name": "Taste Of India Ii Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40390655",
+  "name": "Danny Blaine",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40390698",
+  "name": "Caterina'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40390758",
+  "name": "White Castle",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40390781",
+  "name": "Joey'S Place",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40390850",
+  "name": "Cafe Luna",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40390973",
+  "name": "Miracali Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40391032",
+  "name": "Kabab Cafe",
+  "borough": "Queens",
+  "cuisine": "Egyptian"
+},{
+  "restaurant_id": "40391086",
+  "name": "A & S Pizzeria",
+  "borough": "Staten Island",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40391259",
+  "name": "Sybil'S Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40391271",
+  "name": "Richer'S Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40391350",
+  "name": "Vaccaro'S Pizzeria & Trattoria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40391383",
+  "name": "Air France Lounge",
+  "borough": "Queens",
+  "cuisine": "French"
+},{
+  "restaurant_id": "40391498",
+  "name": "Peking Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40391714",
+  "name": "White Castle",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40391808",
+  "name": "Ihop",
+  "borough": "Queens",
+  "cuisine": "Pancakes/Waffles"
+},{
+  "restaurant_id": "40391824",
+  "name": "Hillside Swimming Club",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40391857",
+  "name": "La Strada Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40392140",
+  "name": "Salvatore And Lloyd'S Pizza",
+  "borough": "Staten Island",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40392256",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40392313",
+  "name": "Cafe Bella Vita",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40392384",
+  "name": "B.Q.E. Cafe Billiards",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40392410",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40392721",
+  "name": "Nueva Villa China Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40392806",
+  "name": "Ihop",
+  "borough": "Queens",
+  "cuisine": "Pancakes/Waffles"
+},{
+  "restaurant_id": "40392939",
+  "name": "Jackson House Restaurant",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40392984",
+  "name": "Georgia Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40393051",
+  "name": "Friend'S Tavern",
+  "borough": "Queens",
+  "cuisine": "Bottled beverages, including water, sodas, juices, etc."
+},{
+  "restaurant_id": "40393093",
+  "name": "Rincon Salvadoreno Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40393249",
+  "name": "Oasis Cafe",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40393395",
+  "name": "Court Square Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40393679",
+  "name": "Los Toldos Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40393685",
+  "name": "Glen Patrick'S Pub",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40393753",
+  "name": "C & B Luncheonette",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40393787",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40393832",
+  "name": "Glen Patrick'S Pub",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40393895",
+  "name": "Pizza Boy Ii",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40393905",
+  "name": "Grandstand Tavern",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40393985",
+  "name": "Manetta'S Ristorante",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40394037",
+  "name": "White Castle",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40394059",
+  "name": "Sandy'S Deli & Roti",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40394068",
+  "name": "Jackson Hole",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40394110",
+  "name": "Cronin & Phelan Pub & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40394159",
+  "name": "San Remo Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40394383",
+  "name": "Island Taste",
+  "borough": "Staten Island",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40394394",
+  "name": "Master Wok",
+  "borough": "Staten Island",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40394518",
+  "name": "Mateus Restaurant",
+  "borough": "Queens",
+  "cuisine": "Portuguese"
+},{
+  "restaurant_id": "40394555",
+  "name": "Luigi'S Restaurant",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40394600",
+  "name": "The Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40394644",
+  "name": "Egger'S Ice Cream Parlor",
+  "borough": "Staten Island",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices"
+},{
+  "restaurant_id": "40394701",
+  "name": "The End Zone Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40394720",
+  "name": "Ambassador Dining Room  At Saratoga Family Inn",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40394962",
+  "name": "Russo'S On The Bay",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40395020",
+  "name": "Buccaneer Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40395036",
+  "name": "American Airlines Employee Cafeteria",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40395071",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40395087",
+  "name": "Austin'S Steak & Ale House",
+  "borough": "Queens",
+  "cuisine": "Continental"
+},{
+  "restaurant_id": "40395110",
+  "name": "Prima Pasta & Cafe",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40395218",
+  "name": "Winchesters Pub",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40395239",
+  "name": "Cafe Cardini",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40395298",
+  "name": "T-Bone Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40395310",
+  "name": "Sunrise Coffee Shop",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40395375",
+  "name": "Ilda'S Place Ii",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40395480",
+  "name": "Broadway Station",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40395505",
+  "name": "Porto Prince Star Restaurant",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40395516",
+  "name": "Alpha Donuts",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40395551",
+  "name": "Sugar Bun Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40395554",
+  "name": "Country Donuts",
+  "borough": "Staten Island",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40395597",
+  "name": "Elmhurst Famous Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40395858",
+  "name": "Tequilla Sunrise",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40395882",
+  "name": "White Castle",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40395906",
+  "name": "Rosa #2 Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40395910",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40395935",
+  "name": "Mcdonald'S",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40396215",
+  "name": "Gennaro'S Rest & Pizzeria",
+  "borough": "Staten Island",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40396230",
+  "name": "Queens Coffee Shop",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40396256",
+  "name": "Ritmo'S 60",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40396267",
+  "name": "Arharn Thai Cuisine",
+  "borough": "Queens",
+  "cuisine": "Thai"
+},{
+  "restaurant_id": "40396445",
+  "name": "Pollos A La Brasa",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40396521",
+  "name": "Tee Dee'S Tavern",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40396598",
+  "name": "Rockaway Beach Inn",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40396769",
+  "name": "Popeyes Chicken & Biscuits",
+  "borough": "Queens",
+  "cuisine": "Chicken"
+},{
+  "restaurant_id": "40396889",
+  "name": "La Antioquena Bakery Ii",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40396892",
+  "name": "Paradise Alley Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40397029",
+  "name": "Angelo'S Pizzeria/Mimmo'S Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40397056",
+  "name": "Sharmel Caterers",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40397075",
+  "name": "Excelsior Catering",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40397329",
+  "name": "Hapisgah Restaurant",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40397439",
+  "name": "Ben'S Kosher Deli & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40397458",
+  "name": "Lucia Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40397723",
+  "name": "White Castle",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40397763",
+  "name": "Alfonso'S Bar",
+  "borough": "Queens",
+  "cuisine": "Bottled beverages, including water, sodas, juices, etc."
+},{
+  "restaurant_id": "40397775",
+  "name": "Bamboo Garden",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40397810",
+  "name": "Olympia",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40398138",
+  "name": "Paddy Quinns",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40398150",
+  "name": "Cj Sullivan'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40398367",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40398389",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40398416",
+  "name": "Home Deli & Catering",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40398440",
+  "name": "Nick'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40398531",
+  "name": "Trattoria Romana",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40398658",
+  "name": "Cafe 75 Bar",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40398689",
+  "name": "Caffee Express",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40398700",
+  "name": "Famous Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40398795",
+  "name": "Vixens",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40398948",
+  "name": "Henny'S Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40399217",
+  "name": "El Rey Mexican Restaurant",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40399256",
+  "name": "Singas Famous Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40399356",
+  "name": "O'Hanlon'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40399422",
+  "name": "Pizza Chef",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40399534",
+  "name": "Iguanas",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40399581",
+  "name": "Pio Pio",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40399613",
+  "name": "Flagship Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40399672",
+  "name": "Bagels & Cream Deli",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40399729",
+  "name": "Glory Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40399739",
+  "name": "Dunkin' Donuts, Baskin Robbins",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40399886",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40399996",
+  "name": "Villa Monte Pizzeria",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40400021",
+  "name": "Doyle'S Corner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40400086",
+  "name": "Giardino Ristorante",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40400198",
+  "name": "Cabana",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40400429",
+  "name": "Bonelle Pastry Shop",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40400492",
+  "name": "Avellino Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40400493",
+  "name": "Barnes & Noble Cafe",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40400539",
+  "name": "All American Coffee Shop",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40400556",
+  "name": "Legend'S Pub",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40400681",
+  "name": "Jj Peabody'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40400831",
+  "name": "Pj Horgan'S Pub",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40400890",
+  "name": "Starting Gate",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40400898",
+  "name": "Village Maria Pizza Ii",
+  "borough": "Staten Island",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40400997",
+  "name": "Scorpio Bar",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40401084",
+  "name": "Mccabe'S Bar Car",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40401094",
+  "name": "Happy Fortune Ii",
+  "borough": "Staten Island",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40401151",
+  "name": "El Olivo",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40401155",
+  "name": "D'Aquila Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40401454",
+  "name": "Paris Gourmet Deli",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40401487",
+  "name": "Beth Torah Kosher Caterers",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40401543",
+  "name": "Usa Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40401742",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40401810",
+  "name": "Los Arrieros Restaurant",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40401864",
+  "name": "Nelly'S Cafe",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40401887",
+  "name": "Sports Mania Bar & Grill",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40401999",
+  "name": "Tierras Columbianas",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40402007",
+  "name": "Grand Avenue Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40402029",
+  "name": "Izalco Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40402102",
+  "name": "Timmy'S Deli",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40402222",
+  "name": "Rab'S Country Lane",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40402266",
+  "name": "Unforgettable Lounge",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40402284",
+  "name": "Di Luvio'S Deli",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40402333",
+  "name": "Astoria Bagel Shop",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40402337",
+  "name": "J & M Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40402345",
+  "name": "Americas Restorante",
+  "borough": "Queens",
+  "cuisine": "Chinese/Cuban"
+},{
+  "restaurant_id": "40402742",
+  "name": "Island Chateau",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40403110",
+  "name": "Cafeteria- Lirr Employees",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40403419",
+  "name": "Air India Lounge",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40403822",
+  "name": "Antun'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40403857",
+  "name": "S.M.R Restaurant Services",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40423364",
+  "name": "Holtermann'S Bakery",
+  "borough": "Staten Island",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40423440",
+  "name": "Buono Bakery",
+  "borough": "Staten Island",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40423532",
+  "name": "V & V Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40423559",
+  "name": "Greenwood Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40423674",
+  "name": "Andre'S Hungarian",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40423819",
+  "name": "Alfonso'S Pastry Shoppe",
+  "borough": "Staten Island",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40423976",
+  "name": "O.B'S Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40424247",
+  "name": "Bagels Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40424488",
+  "name": "Renato'S Pastry Shop",
+  "borough": "Staten Island",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40424515",
+  "name": "Pasticceria La Torre",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40424709",
+  "name": "The Cake Chef",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40424723",
+  "name": "Nita'S European Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40424770",
+  "name": "Russo'S Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40424955",
+  "name": "Paneorama Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40425000",
+  "name": "Patmar Bake Shop",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40425023",
+  "name": "Pate'S Jeanty",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40425060",
+  "name": "Apollo Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40425131",
+  "name": "Baker'S Dozen Bagel",
+  "borough": "Queens",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40425143",
+  "name": "Bagel Shoppe",
+  "borough": "Queens",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40483589",
+  "name": "Hidden Cottage",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40510286",
+  "name": "Roys Rest & Sports Bar",
+  "borough": "Queens",
+  "cuisine": "Bottled beverages, including water, sodas, juices, etc."
+},{
+  "restaurant_id": "40510647",
+  "name": "Roti Corner Restaurant",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40510804",
+  "name": "Woodrow Diner",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40511312",
+  "name": "Plum Tomatoes Pizzeria & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40511696",
+  "name": "Gemini'S Lounge",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40512074",
+  "name": "Alfonso'S Pastry Shoppe",
+  "borough": "Staten Island",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40512087",
+  "name": "Big New York Fried Chicken",
+  "borough": "Queens",
+  "cuisine": "Chicken"
+},{
+  "restaurant_id": "40512172",
+  "name": "The Astoria World Manor",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40512788",
+  "name": "Elias Corner For Fish",
+  "borough": "Queens",
+  "cuisine": "Seafood"
+},{
+  "restaurant_id": "40512883",
+  "name": "Tous Les Jours",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40513416",
+  "name": "Burger King",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40514282",
+  "name": "El Nuevo Ambiente Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40514492",
+  "name": "Dunkin' Donuts, Baskin Robbins",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40515124",
+  "name": "Renee'S Kitchenette",
+  "borough": "Queens",
+  "cuisine": "Filipino"
+},{
+  "restaurant_id": "40515590",
+  "name": "E-Dah Korean Bbq Lounge",
+  "borough": "Queens",
+  "cuisine": "Korean"
+},{
+  "restaurant_id": "40516509",
+  "name": "Campus Center Cafeteria",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40516511",
+  "name": "Food For Thought Library Cafe",
+  "borough": "Staten Island",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40517120",
+  "name": "Blue Bay Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40519425",
+  "name": "Ramona'S Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40520604",
+  "name": "Starbucks Coffee",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40521343",
+  "name": "Mcdonald'S",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40523342",
+  "name": "Rego Park Cafe",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40523753",
+  "name": "Bellrose Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40525193",
+  "name": "Shenanigan'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40526147",
+  "name": "Los Amigos Mexican Restaurant",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40528073",
+  "name": "Grand Plaza",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40528983",
+  "name": "Perkins Family Restaurant & Bakery",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40529040",
+  "name": "Minitalia Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40529979",
+  "name": "Romeo'S Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40530266",
+  "name": "The Bagel House",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40530409",
+  "name": "Khyber Restaurant",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40533002",
+  "name": "Desseo Night Club",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40534044",
+  "name": "Cascarino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40534067",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40534442",
+  "name": "Sushi Family",
+  "borough": "Queens",
+  "cuisine": "Japanese"
+},{
+  "restaurant_id": "40534973",
+  "name": "Gold'S Gym",
+  "borough": "Queens",
+  "cuisine": "Juice, Smoothies, Fruit Salads"
+},{
+  "restaurant_id": "40535347",
+  "name": "Mcdonald'S",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40535383",
+  "name": "Adria Hotel",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40535509",
+  "name": "Aldo'S Ii Pizza And Restaurant",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40535512",
+  "name": "Kum Gang San",
+  "borough": "Queens",
+  "cuisine": "Korean"
+},{
+  "restaurant_id": "40536227",
+  "name": "Jade Island Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40536534",
+  "name": "Cassidy'S Ale House",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40536591",
+  "name": "Portobello Cafe",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40536616",
+  "name": "Riazor Blue Tapas Bar",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40538234",
+  "name": "Dunkin' Donuts, Baskin Robbins",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40538855",
+  "name": "Towers Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40539192",
+  "name": "W'S Bar & Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40540251",
+  "name": "The Corner House",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40541670",
+  "name": "Bagel Club",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40542205",
+  "name": "Mini Star Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40542301",
+  "name": "Luigi'S Pizza & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40542345",
+  "name": "Towne Deli & Pizza",
+  "borough": "Staten Island",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40543355",
+  "name": "Forest Hills Spa",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40544044",
+  "name": "Nix Mix Coffee Shop",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40544267",
+  "name": "United Cyprians Of America",
+  "borough": "Queens",
+  "cuisine": "Mediterranean"
+},{
+  "restaurant_id": "40544529",
+  "name": "Corato Pizza Ii",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40544613",
+  "name": "Crescent Corner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40544948",
+  "name": "Alba'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40545034",
+  "name": "Riccardo'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40545227",
+  "name": "Ariyoshi Japanese Restaurant",
+  "borough": "Queens",
+  "cuisine": "Japanese"
+},{
+  "restaurant_id": "40545573",
+  "name": "The Neptune Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40545799",
+  "name": "The Old Time Vincent'S",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40545967",
+  "name": "Tastee Corner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40546650",
+  "name": "Gian & Pier Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40547123",
+  "name": "No.1 Kitchen Chinese Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40547163",
+  "name": "Glenlo Tavern",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40547434",
+  "name": "The Burrito Bar Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40547933",
+  "name": "Roma View Catering",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40548426",
+  "name": "Spolini'S",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40549269",
+  "name": "Blue & Gray Inn",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40549443",
+  "name": "Jj Garden Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40550150",
+  "name": "Akiyama Japanese Restaurant",
+  "borough": "Queens",
+  "cuisine": "Japanese"
+},{
+  "restaurant_id": "40550262",
+  "name": "Mug Shots",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40550548",
+  "name": "Goody'S Bbq",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40551765",
+  "name": "Mikes Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40551807",
+  "name": "Dunkin' Donuts, Baskin Robbins",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40551900",
+  "name": "Killmeyer'S Old Bavaria Inn.",
+  "borough": "Staten Island",
+  "cuisine": "German"
+},{
+  "restaurant_id": "40552366",
+  "name": "Gigi'S Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40552965",
+  "name": "Ground Level Beer Pub",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40553409",
+  "name": "Happy Fortune",
+  "borough": "Staten Island",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40554463",
+  "name": "El Gauchito Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40556572",
+  "name": "Oriental Star Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40557434",
+  "name": "Ciro'S Pizza Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40557796",
+  "name": "Last Stop Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40558009",
+  "name": "New Feng'S Garden",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40559243",
+  "name": "Costco Wholesale",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40559832",
+  "name": "Jays Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40560917",
+  "name": "Marino'S Pizza & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40561234",
+  "name": "Douglaston Golf Snacks",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40561796",
+  "name": "Cafe Bar",
+  "borough": "Queens",
+  "cuisine": "Mediterranean"
+},{
+  "restaurant_id": "40563069",
+  "name": "Gussy'S Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40564842",
+  "name": "La Cabana Argentina",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40565141",
+  "name": "Caravan Chicken",
+  "borough": "Queens",
+  "cuisine": "Chicken"
+},{
+  "restaurant_id": "40565428",
+  "name": "Bagel Deli / Village Green Deli",
+  "borough": "Staten Island",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40566621",
+  "name": "Starbucks Coffee",
+  "borough": "Staten Island",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40566887",
+  "name": "Krystal Pastry Shop",
+  "borough": "Queens",
+  "cuisine": "Filipino"
+},{
+  "restaurant_id": "40567264",
+  "name": "Ihop",
+  "borough": "Queens",
+  "cuisine": "Pancakes/Waffles"
+},{
+  "restaurant_id": "40567856",
+  "name": "Starbucks Coffee",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40568945",
+  "name": "Wendy'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40568949",
+  "name": "Wendy'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40568953",
+  "name": "Wendy'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40569448",
+  "name": "Empire Wok Kitchen",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40571663",
+  "name": "Santoor Indian Restaurant",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40571696",
+  "name": "Golden Krust Caribbean Bakery & Grill",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40571705",
+  "name": "Mcdonald'S",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40572049",
+  "name": "El Dorado Sports Lounge",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40572494",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40572960",
+  "name": "Rio Dela Plata Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40574150",
+  "name": "Whitestone Bagel Factory",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40575338",
+  "name": "Airport Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40576002",
+  "name": "White Castle",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40576213",
+  "name": "Egyptian Coffee Shop",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40576251",
+  "name": "Mc Guinness'S",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40576810",
+  "name": "Jerk Hut",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40576812",
+  "name": "Bel-Aire Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40576978",
+  "name": "Mama Carmela'S",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40577393",
+  "name": "Don Coqui",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40578058",
+  "name": "Pho Bac Vietnamese Seafood Cuisine",
+  "borough": "Queens",
+  "cuisine": "Vietnamese/Cambodian/Malaysia"
+},{
+  "restaurant_id": "40578433",
+  "name": "Villa Russo",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40579745",
+  "name": "Chicken Holiday Express",
+  "borough": "Staten Island",
+  "cuisine": "Chicken"
+},{
+  "restaurant_id": "40581379",
+  "name": "Starbucks Coffee",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40582271",
+  "name": "Hornado Ecuatoriano",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40582750",
+  "name": "Boston Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40582932",
+  "name": "El Dorado Cafe",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40583239",
+  "name": "Citibank Employee Cafeteria",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40584158",
+  "name": "Glendale Bakeshop & Cafe",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40586094",
+  "name": "Genesis # 1 West Indian",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40586834",
+  "name": "Perfecto Pizza & Coffee Shop",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40587273",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40587276",
+  "name": "Tottenville Bagels",
+  "borough": "Staten Island",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40587480",
+  "name": "Ihop",
+  "borough": "Queens",
+  "cuisine": "Pancakes/Waffles"
+},{
+  "restaurant_id": "40587835",
+  "name": "Mcloughlins Bar",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40587915",
+  "name": "Gino'S Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40588072",
+  "name": "Ciro Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40588462",
+  "name": "John'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40588761",
+  "name": "Patty World",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40589045",
+  "name": "La Picada Azuaya Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40589546",
+  "name": "El Chivito D'Oro Iii",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40591271",
+  "name": "101 Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40591492",
+  "name": "Lovell'S Guiding Light",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40591519",
+  "name": "Alex'S Kitchen",
+  "borough": "Staten Island",
+  "cuisine": "Chicken"
+},{
+  "restaurant_id": "40591856",
+  "name": "La Nueva Playitas",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40592406",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40592490",
+  "name": "Mario'S Restaurant",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40592920",
+  "name": "Forest Park Golf Course",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40593352",
+  "name": "S S Calabro Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40593817",
+  "name": "Xtra Cheese Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40594026",
+  "name": "Vincents Bagel",
+  "borough": "Staten Island",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40594166",
+  "name": "L. A. Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40594214",
+  "name": "Maggie Mays",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40594824",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40595941",
+  "name": "Red Bowl Noodle Shop",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40596549",
+  "name": "Pollos A La Barasa Mario",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40597224",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40597618",
+  "name": "Tony'S Brick Oven",
+  "borough": "Staten Island",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40601254",
+  "name": "Aladdin",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40601687",
+  "name": "Dunkin' Donuts, Baskin Robbins",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40601696",
+  "name": "Woo Chon Restaurant",
+  "borough": "Queens",
+  "cuisine": "Korean"
+},{
+  "restaurant_id": "40601738",
+  "name": "La Candela Espanola",
+  "borough": "Staten Island",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40602872",
+  "name": "Starbucks Coffee",
+  "borough": "Staten Island",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40603743",
+  "name": "Rossville Pizzeria",
+  "borough": "Staten Island",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40604740",
+  "name": "T.G.I. Friday'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40605770",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40606656",
+  "name": "Laterna Taverna",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40607341",
+  "name": "Steinway Billiard",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40607604",
+  "name": "El Nuevo Cafe Latino",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40608102",
+  "name": "Kebab House",
+  "borough": "Queens",
+  "cuisine": "Turkish"
+},{
+  "restaurant_id": "40608702",
+  "name": "Brioso Ristorante",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40609676",
+  "name": "Burger King",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40609677",
+  "name": "Burger King",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40609678",
+  "name": "Burger King",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40609680",
+  "name": "Burger King",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40609705",
+  "name": "Barios Pizza & Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40610139",
+  "name": "Van Dam Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40611134",
+  "name": "Caprice",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40611258",
+  "name": "Polito'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40612120",
+  "name": "Starbucks Coffee",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40614489",
+  "name": "Fresh Meadow'S Pizza & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40615240",
+  "name": "Mehak",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40617030",
+  "name": "Hunan ''K'' Chinese Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40618041",
+  "name": "Krystal European Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40620183",
+  "name": "Afternoone'S Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40620427",
+  "name": "Applebee'S Neighborhood Grill & Bar",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40624458",
+  "name": "Primo Amore",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40624941",
+  "name": "Bagelman Of Woodside",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40625198",
+  "name": "Korean Lounge",
+  "borough": "Queens",
+  "cuisine": "Korean"
+},{
+  "restaurant_id": "40625230",
+  "name": "Millie'S Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40633995",
+  "name": "Taco Bell",
+  "borough": "Queens",
+  "cuisine": "Tex-Mex"
+},{
+  "restaurant_id": "40634433",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40635294",
+  "name": "Bicheiros Bar",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40635976",
+  "name": "Latin Bakery",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40636533",
+  "name": "Japan Airlines Lounge",
+  "borough": "Queens",
+  "cuisine": "Japanese"
+},{
+  "restaurant_id": "40638039",
+  "name": "Legends Bar & Grill",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40638566",
+  "name": "Francesco'S Pizzeria Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40639406",
+  "name": "Tasty Fast Food",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40639953",
+  "name": "Carvel Ice Cream",
+  "borough": "Staten Island",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices"
+},{
+  "restaurant_id": "40641408",
+  "name": "Giovanni'S Restaurant & Cafe",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40642602",
+  "name": "The Food Hut",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40643227",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40645260",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40646006",
+  "name": "Peppino'S Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40647590",
+  "name": "Jackson Hole",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40647906",
+  "name": "Terrace On The Park",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40647953",
+  "name": "Jackson Diner Indian Cuisine",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40648653",
+  "name": "Thomas Preti Caterers",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40649463",
+  "name": "La Boina Roja Steak House",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40650078",
+  "name": "Bocelli",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40653513",
+  "name": "Ihawan",
+  "borough": "Queens",
+  "cuisine": "Filipino"
+},{
+  "restaurant_id": "40658358",
+  "name": "El Caramelo Coffee Shop",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40658440",
+  "name": "Hillside Gourmet",
+  "borough": "Staten Island",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40659165",
+  "name": "Evolution",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40659341",
+  "name": "Book Chang Dong Sodndubu",
+  "borough": "Queens",
+  "cuisine": "Korean"
+},{
+  "restaurant_id": "40659758",
+  "name": "Roti Boti Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pakistani"
+},{
+  "restaurant_id": "40659854",
+  "name": "Bagels Etc",
+  "borough": "Queens",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40660193",
+  "name": "Cookie'S Lounge",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40660816",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40661017",
+  "name": "Hairos Night Club",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40662091",
+  "name": "Friends Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40662141",
+  "name": "J And D Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40662349",
+  "name": "Sanfords Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40662988",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40663557",
+  "name": "Highway Deli And Coffee Shop",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40665705",
+  "name": "K'S Cafeteria",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40666094",
+  "name": "Midway Cinemas",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40666626",
+  "name": "My Uncle'S Steak Restaurant",
+  "borough": "Queens",
+  "cuisine": "Steak"
+},{
+  "restaurant_id": "40666989",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40667700",
+  "name": "Bagel Land",
+  "borough": "Staten Island",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40668305",
+  "name": "El Anzuelo Fino Restaurant",
+  "borough": "Queens",
+  "cuisine": "Peruvian"
+},{
+  "restaurant_id": "40668596",
+  "name": "Fresco Bar Cafe Restaurant",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40668598",
+  "name": "Emerald Pub",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40668681",
+  "name": "Cascarino'S",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40668700",
+  "name": "Track Kitchen",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40669474",
+  "name": "The Mansion Grand",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40669648",
+  "name": "J & S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40670684",
+  "name": "Lulu'S Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40673089",
+  "name": "Sean Og",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40674684",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40676022",
+  "name": "Tacos Mexico",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40677193",
+  "name": "Big Jons Pizza & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40677610",
+  "name": "El Mariachi Restaurant",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40678235",
+  "name": "Bourbon Street",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40678310",
+  "name": "Burek'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40678995",
+  "name": "Tandoori Food & Bakery",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40679997",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40680038",
+  "name": "Cavo",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40681290",
+  "name": "L & M Italian Deli & Catering",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40683948",
+  "name": "Trattoria L'Incontro",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40684961",
+  "name": "Garden Cafe Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40685229",
+  "name": "Tequila Sunrise",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40685819",
+  "name": "Dunkin' Donuts",
+  "borough": "Staten Island",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40686672",
+  "name": "Perkins Family Restaurant & Bakery",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40688834",
+  "name": "Seguine Bagel Bakery",
+  "borough": "Staten Island",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40690297",
+  "name": "Thomasina'S",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40690636",
+  "name": "Studio 46",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40690899",
+  "name": "The Ice Box-Ralph'S Famous Italian Ices",
+  "borough": "Queens",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices"
+},{
+  "restaurant_id": "40692209",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40692741",
+  "name": "Delight Donut",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40694122",
+  "name": "Trackside",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40694203",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40695260",
+  "name": "Kew Gardens Cinemas",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40696304",
+  "name": "The Tick Tavern",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40696959",
+  "name": "Jamaican Flavours",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40698087",
+  "name": "Big Al'S Chicago Pizza",
+  "borough": "Staten Island",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40698840",
+  "name": "Galicia Bar",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40699061",
+  "name": "I.O. Cafe",
+  "borough": "Queens",
+  "cuisine": "Polish"
+},{
+  "restaurant_id": "40701605",
+  "name": "Bahari Estiatorio",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40704155",
+  "name": "Erawan Thai Cuisine",
+  "borough": "Queens",
+  "cuisine": "Thai"
+},{
+  "restaurant_id": "40704305",
+  "name": "La Dolce Italia Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40705325",
+  "name": "G.P. Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40705733",
+  "name": "Harbor Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40707194",
+  "name": "Michael'S Restaurant",
+  "borough": "Queens",
+  "cuisine": "Continental"
+},{
+  "restaurant_id": "40707818",
+  "name": "Nuevo Jardin De China Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40708598",
+  "name": "No Partners",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40709458",
+  "name": "Pan Fino",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40710411",
+  "name": "Donato'S Pizzeria Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40711301",
+  "name": "Chicken Festival",
+  "borough": "Queens",
+  "cuisine": "Chicken"
+},{
+  "restaurant_id": "40712429",
+  "name": "Hornado Ecuatoriano",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40715365",
+  "name": "Starbucks Coffee",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40715679",
+  "name": "Pizza Hut",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40715785",
+  "name": "Pizza Hut",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40715788",
+  "name": "Pizza Hut",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40715796",
+  "name": "Pizza Hut",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40715808",
+  "name": "Pizza Hut, Kentucky Fried Chicken",
+  "borough": "Queens",
+  "cuisine": "Chicken"
+},{
+  "restaurant_id": "40715826",
+  "name": "Pizza Hut",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40716110",
+  "name": "Pizza Hut/Wing Street",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40716177",
+  "name": "Pizza Hut",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40716188",
+  "name": "Pizza Hut",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40716193",
+  "name": "Pizza Hut",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40716299",
+  "name": "Chuck E Cheese'S",
+  "borough": "Staten Island",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40716733",
+  "name": "Gustosa Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40717559",
+  "name": "Billiard Company",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40718547",
+  "name": "Dosa Hutt",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40719325",
+  "name": "Kiddie Cakes",
+  "borough": "Staten Island",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40719557",
+  "name": "Family Corner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40719863",
+  "name": "Pahal Zan Restaurant",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40720133",
+  "name": "Bagel House",
+  "borough": "Queens",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40720280",
+  "name": "The Historic Old Bermuda Inn",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40720393",
+  "name": "Andrew'S Diner",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40720511",
+  "name": "Ambrosinos Pizzeria",
+  "borough": "Staten Island",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40721162",
+  "name": "Continental Luncheonette & Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40722408",
+  "name": "Braulio'S & Family Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40722463",
+  "name": "El Sitio Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40722858",
+  "name": "Kerry Hills Pub",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40723447",
+  "name": "Adrian & Rocky'S Caterers",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40723611",
+  "name": "Sissy Mcginty'S",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40723936",
+  "name": "Nucci'S Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40724246",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40724277",
+  "name": "New Kim'S Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40724462",
+  "name": "Chuck E Cheese'S",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40726247",
+  "name": "Oki Japanese Restaruant",
+  "borough": "Queens",
+  "cuisine": "Japanese"
+},{
+  "restaurant_id": "40726984",
+  "name": "Plaza Lounge",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40728353",
+  "name": "Unique Lounge",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40728711",
+  "name": "Burger King",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40729296",
+  "name": "Dino'S Pizza & Pasta",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40729439",
+  "name": "Cositas Ricas",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40729796",
+  "name": "Juice For Life",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40729972",
+  "name": "Scandals",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40730617",
+  "name": "Pizza Jarden",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40730678",
+  "name": "Mccaffrey And Burke",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40731341",
+  "name": "Villa Rustica Ristorante",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40731939",
+  "name": "Sato Japanese Restaurant",
+  "borough": "Queens",
+  "cuisine": "Japanese"
+},{
+  "restaurant_id": "40732861",
+  "name": "Antica Trattoria",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40734541",
+  "name": "J & C Seafood",
+  "borough": "Queens",
+  "cuisine": "Seafood"
+},{
+  "restaurant_id": "40735273",
+  "name": "El Paraiso Bar & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40736383",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40737933",
+  "name": "Starbucks Coffee",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40738177",
+  "name": "La Cabana",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40739013",
+  "name": "El Mariachi Restaurant",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40739444",
+  "name": "Dunkin Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40739446",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40741534",
+  "name": "Tai Pan Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40741967",
+  "name": "Tong Hai Tung Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40743360",
+  "name": "Domino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40743368",
+  "name": "Domino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40743374",
+  "name": "Domino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40743416",
+  "name": "Domino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40743421",
+  "name": "Domino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40743432",
+  "name": "Domino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40743578",
+  "name": "El Rumbero Bar Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40745610",
+  "name": "Milan Sports Bar",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40745681",
+  "name": "Junior'S Cafe",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40745870",
+  "name": "Marathon Food Shop",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40746162",
+  "name": "Ciros Pastry Shop",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40746229",
+  "name": "Mike'S Place",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40746560",
+  "name": "Amf 34 Avenue Lanes",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40746567",
+  "name": "Scorpio",
+  "borough": "Queens",
+  "cuisine": "Eastern European"
+},{
+  "restaurant_id": "40747050",
+  "name": "Samaria Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40747162",
+  "name": "Island Shores",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40748329",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40748570",
+  "name": "Springfield Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40748671",
+  "name": "Flushing Meadows Pitch And Putt",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40749422",
+  "name": "Tous Les Jours",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40750451",
+  "name": "The Courtyard Ale House",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40751057",
+  "name": "Maguire'S Public House",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40752416",
+  "name": "Peking House",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40753856",
+  "name": "Fountain Of Youth Health Spa Juice Bar & Dinner",
+  "borough": "Queens",
+  "cuisine": "Korean"
+},{
+  "restaurant_id": "40754126",
+  "name": "Maurya Restaurant",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40755766",
+  "name": "El Pollo Peruano",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40756020",
+  "name": "La Grotta Ristorante",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40756088",
+  "name": "Tres Coronas Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40756403",
+  "name": "Laguardia Courtyard Hotel By Marriott",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40757425",
+  "name": "Da Mikelle Ii",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40758772",
+  "name": "New Sunny Garden Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40760778",
+  "name": "La Nortena Express Restaurant",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40761108",
+  "name": "My Mother'S Place",
+  "borough": "Queens",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices"
+},{
+  "restaurant_id": "40761822",
+  "name": "Peking Express",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40762308",
+  "name": "La Flor Bakery Cafe",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40762630",
+  "name": "Burger King/Metro Mall",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40763160",
+  "name": "Yummy Kitchen",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40763806",
+  "name": "Ralph'S Ii Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40764120",
+  "name": "San Soo Kap San",
+  "borough": "Queens",
+  "cuisine": "Korean"
+},{
+  "restaurant_id": "40764527",
+  "name": "Pizza Palace",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40781412",
+  "name": "Gaudio'S Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40781869",
+  "name": "Ponticello Baybridge Pizzeria & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40782091",
+  "name": "Starbucks Coffee",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40782999",
+  "name": "Wendy'S",
+  "borough": "Staten Island",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40783748",
+  "name": "Phillies Pizzeria Ii",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40783806",
+  "name": "Jade Seneca Oriental Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40784405",
+  "name": "Cinnabon World Famous Cinnamon Rolls",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40786218",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40786301",
+  "name": "El Ranchito De Daisy",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40786902",
+  "name": "Boston Market",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40786907",
+  "name": "Boston Market",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40786910",
+  "name": "Boston Market",
+  "borough": "Queens",
+  "cuisine": "Chicken"
+},{
+  "restaurant_id": "40786914",
+  "name": "Boston Market",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40786921",
+  "name": "Boston Market",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40786923",
+  "name": "Boston Market",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40786924",
+  "name": "Boston Market",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40787040",
+  "name": "Boston Market",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40787049",
+  "name": "Boston Market",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40787054",
+  "name": "Boston Market",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40787059",
+  "name": "Boston Market",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40788706",
+  "name": "Kelly'S Restaurant & Pizza",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40790306",
+  "name": "Starbucks Coffee",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40790329",
+  "name": "Forest Hills Coffe Shop",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40791096",
+  "name": "Popeyes Chicken & Biscuits",
+  "borough": "Queens",
+  "cuisine": "Chicken"
+},{
+  "restaurant_id": "40791157",
+  "name": "La Piazza Pizzeria & Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40791454",
+  "name": "La Cabana Jarabacoa Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40794835",
+  "name": "Pizza Port",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40795070",
+  "name": "Terminal1 Employee Cafeteria",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40797031",
+  "name": "Picanteria El Austro",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40797688",
+  "name": "Triple Crown Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40798504",
+  "name": "Africana Restaurant",
+  "borough": "Queens",
+  "cuisine": "African"
+},{
+  "restaurant_id": "40798514",
+  "name": "Crystal Palace",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40798773",
+  "name": "Pasiones Sports-Bar",
+  "borough": "Queens",
+  "cuisine": "Mexican"
+},{
+  "restaurant_id": "40799021",
+  "name": "Bravo Cafe Concert",
+  "borough": "Queens",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40800121",
+  "name": "Curves Gentleman'S Club",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40801325",
+  "name": "Regina Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40803444",
+  "name": "Manor House Restaurant",
+  "borough": "Staten Island",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40805108",
+  "name": "Barnes & Noble Cafe",
+  "borough": "Staten Island",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40807234",
+  "name": "Richmond County Country Club - Pool Snack Bar",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40807236",
+  "name": "Richmond County Country Club(10Th Hole)",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40807238",
+  "name": "Richmond County Country Club",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40808305",
+  "name": "Bermay Luncheonette",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40808640",
+  "name": "Carom Cafe Billiards",
+  "borough": "Queens",
+  "cuisine": "Korean"
+},{
+  "restaurant_id": "40808787",
+  "name": "Hot Bagels & Cafe",
+  "borough": "Queens",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40809829",
+  "name": "Scala Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40810032",
+  "name": "Al-Mehran Restaurant",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40810141",
+  "name": "T.J.'S Sports Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40810476",
+  "name": "Funtopia Usa",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40812870",
+  "name": "Koliba Restaurant",
+  "borough": "Queens",
+  "cuisine": "Czech"
+},{
+  "restaurant_id": "40813992",
+  "name": "Acquista Trattoria",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40814991",
+  "name": "Charo Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40815185",
+  "name": "Constantines Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40815524",
+  "name": "Mythos Restaurant",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40815637",
+  "name": "Applebee'S Neighborhood Grill & Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40815640",
+  "name": "Applebee'S Neighborhood Grill & Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40816086",
+  "name": "Dock Street Bar & Grill",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40816235",
+  "name": "Dunkin' Donuts/Baskin Robins",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40816768",
+  "name": "Tiberio Dimare",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40816997",
+  "name": "Kabul Kabab House",
+  "borough": "Queens",
+  "cuisine": "Middle Eastern"
+},{
+  "restaurant_id": "40819145",
+  "name": "Bum Bum Bar",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40819976",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40820080",
+  "name": "7 Stars",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40821141",
+  "name": "Columbus House",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40821355",
+  "name": "The Little Sweet Shoppe",
+  "borough": "Queens",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices"
+},{
+  "restaurant_id": "40821884",
+  "name": "Gino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40823428",
+  "name": "El Boqueron Tapas Bar & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Tapas"
+},{
+  "restaurant_id": "40824395",
+  "name": "Uncle Peter'S",
+  "borough": "Queens",
+  "cuisine": "Continental"
+},{
+  "restaurant_id": "40824512",
+  "name": "Courtyard By Marriott",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40824688",
+  "name": "La Vienesa Spanish Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40827157",
+  "name": "Indian Taj",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40827606",
+  "name": "Carvel Ice Cream",
+  "borough": "Staten Island",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices"
+},{
+  "restaurant_id": "40827726",
+  "name": "Gandhi Indian Cuisine",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40827907",
+  "name": "Subway",
+  "borough": "Queens",
+  "cuisine": "Sandwiches"
+},{
+  "restaurant_id": "40828109",
+  "name": "The Patio Grill",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40829164",
+  "name": "Bungalow Bar & Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40831148",
+  "name": "Starbucks Coffee (Store #7555)",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40831475",
+  "name": "Rosario Deli",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40835821",
+  "name": "Devasthanam Canteen",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40836314",
+  "name": "Maharaja Quality Sweets",
+  "borough": "Queens",
+  "cuisine": "Indian"
+},{
+  "restaurant_id": "40838669",
+  "name": "Nelly'S Corner Pizzeria Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40840921",
+  "name": "Connolly'S Corner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40842618",
+  "name": "Bagel Depot",
+  "borough": "Staten Island",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40844021",
+  "name": "The Ranch Restaurant & Bar Of Guyana",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40844719",
+  "name": "Rocco'S Italian Sausages & Philly Cheesesteaks",
+  "borough": "Queens",
+  "cuisine": "Sandwiches"
+},{
+  "restaurant_id": "40846905",
+  "name": "Polanco'S",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40847763",
+  "name": "Crossbay Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40848143",
+  "name": "Wakamatsu Japanese Restaurant",
+  "borough": "Queens",
+  "cuisine": "Japanese"
+},{
+  "restaurant_id": "40848434",
+  "name": "Coffee Express",
+  "borough": "Queens",
+  "cuisine": "Café/Coffee/Tea"
+},{
+  "restaurant_id": "40849504",
+  "name": "Boulevard Tavern",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40849580",
+  "name": "Cheito Duran Deli Grocery",
+  "borough": "Queens",
+  "cuisine": "Delicatessen"
+},{
+  "restaurant_id": "40850187",
+  "name": "Uno Chicago Grill",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40852397",
+  "name": "Candies Bar",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40853123",
+  "name": "La Verite Restaurant Bar",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40853174",
+  "name": "El Familar Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40853737",
+  "name": "The New Thompson Diner",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40854101",
+  "name": "Lorenzos Bar & Grill (Hilton Garden)",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40856899",
+  "name": "Mccann'S Pub",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40857107",
+  "name": "Arzu Restaurant",
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher"
+},{
+  "restaurant_id": "40858744",
+  "name": "American Hero & Sub'S",
+  "borough": "Queens",
+  "cuisine": "Sandwiches"
+},{
+  "restaurant_id": "40858816",
+  "name": "The Original Sal'S Pizzeria",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40858878",
+  "name": "Conti'S",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40859127",
+  "name": "Goody'S Spanish Food",
+  "borough": "Staten Island",
+  "cuisine": "Spanish"
+},{
+  "restaurant_id": "40860032",
+  "name": "Barranquilla Bakery & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40860410",
+  "name": "La Bella Pizza",
+  "borough": "Staten Island",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40860476",
+  "name": "Rice & Beans Lechonera",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40860493",
+  "name": "Carmine'S Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40861103",
+  "name": "Mario'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40862491",
+  "name": "Ua Kaufman Astoria #14",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40862619",
+  "name": "Moretti Bakery",
+  "borough": "Staten Island",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40864277",
+  "name": "Gallagher'S 2000",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40865501",
+  "name": "Igloo Ice Cream Cafe",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40865775",
+  "name": "Fratelli Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40865879",
+  "name": "Euro Pizza",
+  "borough": "Staten Island",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40866304",
+  "name": "Domino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40867120",
+  "name": "Gina'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40867167",
+  "name": "Sarajevo Fast Food",
+  "borough": "Queens",
+  "cuisine": "Eastern European"
+},{
+  "restaurant_id": "40868248",
+  "name": "Bill'S Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40868810",
+  "name": "Taj Donut Shop",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40869288",
+  "name": "The Black Dog Grill",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40871170",
+  "name": "Namudol",
+  "borough": "Queens",
+  "cuisine": "Korean"
+},{
+  "restaurant_id": "40871234",
+  "name": "S & T Bagels & Deli",
+  "borough": "Staten Island",
+  "cuisine": "Bagels/Pretzels"
+},{
+  "restaurant_id": "40871752",
+  "name": "Jian On Chinese Restaurant",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40873692",
+  "name": "Luigi'S Catering",
+  "borough": "Queens",
+  "cuisine": "Italian"
+},{
+  "restaurant_id": "40873798",
+  "name": "Alba Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40875639",
+  "name": "Don Alex Restaurant",
+  "borough": "Queens",
+  "cuisine": "Peruvian"
+},{
+  "restaurant_id": "40876297",
+  "name": "Jerry'S 637 Diner",
+  "borough": "Staten Island",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40876472",
+  "name": "Corato I Pizza & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40876695",
+  "name": "Crystal Curry House",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+},{
+  "restaurant_id": "40877247",
+  "name": "Zorba'S",
+  "borough": "Queens",
+  "cuisine": "Greek"
+},{
+  "restaurant_id": "40877264",
+  "name": "Tony'S Pizzeria & Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40878775",
+  "name": "Girasol Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40879347",
+  "name": "Domino'S Pizza",
+  "borough": "Queens",
+  "cuisine": "Pizza"
+},{
+  "restaurant_id": "40880194",
+  "name": "Tournesol",
+  "borough": "Queens",
+  "cuisine": "French"
+},{
+  "restaurant_id": "40880365",
+  "name": "Tavern Lounge",
+  "borough": "Queens",
+  "cuisine": "Irish"
+},{
+  "restaurant_id": "40881083",
+  "name": "Mcdonald'S",
+  "borough": "Queens",
+  "cuisine": "Hamburgers"
+},{
+  "restaurant_id": "40881793",
+  "name": "Subway",
+  "borough": "Queens",
+  "cuisine": "Sandwiches"
+},{
+  "restaurant_id": "40882663",
+  "name": "El Hornero Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40883049",
+  "name": "Dunkin' Donuts",
+  "borough": "Staten Island",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40884354",
+  "name": "111 Restaurant",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40884503",
+  "name": "El Cuencanito",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40884708",
+  "name": "Yao Wah Kitchen",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40885010",
+  "name": "Dunkin' Donuts",
+  "borough": "Queens",
+  "cuisine": "Donuts"
+},{
+  "restaurant_id": "40885333",
+  "name": "Swiss International Airlines Lounge",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40885485",
+  "name": "Rico Pan Bakery",
+  "borough": "Queens",
+  "cuisine": "Bakery"
+},{
+  "restaurant_id": "40886435",
+  "name": "Jennifer'S Restaurant",
+  "borough": "Queens",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)"
+},{
+  "restaurant_id": "40886613",
+  "name": "D'Angelo'S Pizzeria And Restaurant",
+  "borough": "Queens",
+  "cuisine": "Pizza/Italian"
+},{
+  "restaurant_id": "40888264",
+  "name": "Subway",
+  "borough": "Queens",
+  "cuisine": "Sandwiches"
+},{
+  "restaurant_id": "40889213",
+  "name": "New China Kitchen",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40889676",
+  "name": "Uno Cafe & Billiards",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40891881",
+  "name": "A & B Deli & Catering",
+  "borough": "Queens",
+  "cuisine": "American "
+},{
+  "restaurant_id": "40892367",
+  "name": "Park'S Snack",
+  "borough": "Queens",
+  "cuisine": "Korean"
+},{
+  "restaurant_id": "40894025",
+  "name": "Annie'S Kitchen",
+  "borough": "Queens",
+  "cuisine": "Chinese"
+},{
+  "restaurant_id": "40897493",
+  "name": "Golden Krust Caribbean Bakery & Grill",
+  "borough": "Queens",
+  "cuisine": "Caribbean"
+}]

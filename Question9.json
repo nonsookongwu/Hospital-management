@@ -1,0 +1,85 @@
+[{
+  "restaurant_id": "40387990",
+  "name": "T.G.I. Friday'S",
+  "address": {
+    "building": "47",
+    "coord": [
+      -78.877224,
+      42.89546199999999
+    ],
+    "street": "Broadway @ Trinity Pl",
+    "zipcode": "10006"
+  }
+},{
+  "restaurant_id": "40388936",
+  "name": "T.G.I. Fridays",
+  "address": {
+    "building": "1",
+    "coord": [
+      -0.7119979,
+      51.6514664
+    ],
+    "street": "Pennplaza E, Penn Sta",
+    "zipcode": "10001"
+  }
+},{
+  "restaurant_id": "40402284",
+  "name": "Di Luvio'S Deli",
+  "address": {
+    "building": "3000",
+    "coord": [
+      -87.86567699999999,
+      42.61150920000001
+    ],
+    "street": "47 Avenue",
+    "zipcode": "11101"
+  }
+},{
+  "restaurant_id": "40568285",
+  "name": "La Caridad 78",
+  "address": {
+    "building": "21972199",
+    "coord": [
+      -78.589606,
+      42.8912372
+    ],
+    "street": "Broadway",
+    "zipcode": "10024"
+  }
+},{
+  "restaurant_id": "40876618",
+  "name": "Bijan'S",
+  "address": {
+    "building": "7981",
+    "coord": [
+      -84.9751215,
+      45.4713351
+    ],
+    "street": "Hoyt Street",
+    "zipcode": "11201"
+  }
+},{
+  "restaurant_id": "40879243",
+  "name": "Hyatt, Ny Central/Room Service",
+  "address": {
+    "building": "0",
+    "coord": [
+      -88.0778799,
+      42.4154769
+    ],
+    "street": "& Grand Central",
+    "zipcode": "10017"
+  }
+},{
+  "restaurant_id": "40882356",
+  "name": "Sports Center At Chelsea Piers (Sushi Bar)",
+  "address": {
+    "building": "60",
+    "coord": [
+      -111.9975205,
+      42.0970258
+    ],
+    "street": "West Side Highway",
+    "zipcode": "10006"
+  }
+}]

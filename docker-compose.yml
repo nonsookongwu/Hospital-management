@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  hospitalmanagementbackend: 
+    build:
+       context: .
+    ports:
+      - 5000:3000
+    
+      
